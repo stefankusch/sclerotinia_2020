@@ -8,7 +8,6 @@ In this repository, I summarize the scripts and tools I used to perform the tran
 02. Assembly quality control by use of `Blobtools`.
 03. Filtering non-expressed genes
 04. Differential Expression (DE) analysis via `limma-VOOM`
-05. 
 
 #### References *to be updated*
 
