@@ -1,17 +1,17 @@
-## Genome assembly of *Myriosclerotinia sulcatula*
+## Transcriptomic analysis of *Sclerotinia sclerotiorum* and *Sclerotinia trifoliorum*
 
-In this repository, I summarize the scripts and tools I used to perform the assembly of the genome of *Myriosclerotinia sulcatula*. The publication can be found [here](https://doi.org/10.1094/MPMI-03-20-0060-A).
+In this repository, I summarize the scripts and tools I used to perform the transcriptomic analysis of *Sclerotinia sclerotiorum* and *Sclerotinia trifoliorum*. Plotting scripts are included as well. The publication can be found [here](https://doi.org/10.1101/2020.xx.xx.xxxxxx).
 
 #### Index
 
-01. Genome assembly with `Canu` and polishing with `Pilon`.
+01. Read processing and mapping.
 02. Assembly quality control by use of `Blobtools`.
 03. Basic genome analysis
 04. Gene annotation *ab initio* via `Augustus`/`BRAKER2`
 05. Manual curation of gene models using `WebApollo`
 06. Functional annotation of the proteome. 
 
-#### References
+#### References *to be updated*
 
 - Canu [Publication](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC5411767)
 - Pilon [Publication](http://dx.plos.org/10.1371/journal.pone.0112963)
