@@ -6,10 +6,9 @@ In this repository, I summarize the scripts and tools I used to perform the tran
 
 01. Read processing and mapping.
 02. Assembly quality control by use of `Blobtools`.
-03. Basic genome analysis
-04. Gene annotation *ab initio* via `Augustus`/`BRAKER2`
-05. Manual curation of gene models using `WebApollo`
-06. Functional annotation of the proteome. 
+03. Filtering non-expressed genes
+04. Differential Expression (DE) analysis via `limma-VOOM`
+05. 
 
 #### References *to be updated*
 
