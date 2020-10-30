@@ -1,6 +1,6 @@
 ## Transcriptomic analysis of *Sclerotinia sclerotiorum* and *Sclerotinia trifoliorum*
 
-In this repository, I summarize the scripts and tools I used to perform the transcriptomic analysis of *Sclerotinia sclerotiorum* and *Sclerotinia trifoliorum*. Plotting scripts are included as well. The publication can be found [here](https://doi.org/10.1101/2020.xx.xx.xxxxxx).
+In this repository, I summarize the scripts and tools I used to perform the transcriptomic analysis of *Sclerotinia sclerotiorum* and *Sclerotinia trifoliorum*. Plotting scripts are included as well. The publication can be found [here](https://doi.org/10.1101/2020.10.29.360412).
 
 #### Index
 
